@@ -1,0 +1,6 @@
+{
+  "name": "Style Pick - 스마트 옷장 & 맞춤 코디 추천",
+  "description": "내 옷장에 등록된 의류만으로 계절, 날씨, 상황, 스타일, 선호 색상에 꼭 맞는 최적의 코디를 조합하고 추천해주는 패션 웹앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
